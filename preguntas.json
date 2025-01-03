@@ -1,0 +1,82 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de Cuba?",
+    "opciones": [
+      "La Habana",
+      "Santiago de Cuba",
+      "Camagüey",
+      "Trinidad"
+    ],
+    "respuesta_correcta": "La Habana"
+  },
+  {
+    "pregunta": "¿En qué año comenzó la Revolución Cubana?",
+    "opciones": [
+      "1953",
+      "1961",
+      "1945",
+      "1980"
+    ],
+    "respuesta_correcta": "1953"
+  },
+  {
+    "pregunta": "¿Quién fue el líder máximo de la Revolución Cubana?",
+    "opciones": [
+      "Fidel Castro",
+      "Che Guevara",
+      "Raúl Castro",
+      "José Martí"
+    ],
+    "respuesta_correcta": "Fidel Castro"
+  },
+  {
+    "pregunta": "¿Qué mar rodea a Cuba?",
+    "opciones": [
+      "Mar Caribe",
+      "Océano Atlántico",
+      "Mar de la China",
+      "Mar Mediterráneo"
+    ],
+    "respuesta_correcta": "Mar Caribe"
+  },
+  {
+    "pregunta": "¿Qué moneda se usa oficialmente en Cuba?",
+    "opciones": [
+      "Peso cubano (CUP)",
+      "Dólar estadounidense (USD)",
+      "Euro (EUR)",
+      "Peso mexicano (MXN)"
+    ],
+    "respuesta_correcta": "Peso cubano (CUP)"
+  },
+  {
+    "pregunta": "¿Cuál es el plato tradicional de Cuba?",
+    "opciones": [
+      "Ropa vieja",
+      "Paella",
+      "Ceviche",
+      "Tacos"
+    ],
+    "respuesta_correcta": "Ropa vieja"
+  },
+  {
+    "pregunta": "¿Qué famosa playa está situada en Varadero?",
+    "opciones": [
+      "Playa Varadero",
+      "Playa Santa María",
+      "Playa Ancón",
+      "Playa de los Cocos"
+    ],
+    "respuesta_correcta": "Playa Varadero"
+  },
+  {
+    "pregunta": "¿Qué famoso músico cubano es conocido como el 'Sonero Mayor'?",
+    "opciones": [
+      "Beny Moré",
+      "Compay Segundo",
+      "Pablo Milanés",
+      "Silvio Rodríguez"
+    ],
+    "respuesta_correcta": "Beny Moré"
+  }
+]
